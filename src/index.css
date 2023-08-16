@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.transition {
+  transition: .6s;
+}
+
+/* Promo card style start  */
+.promoCard:hover img {
+  transform: scale(1.05);
+}
+
+.promoCardInfo {
+  z-index: 3;
+  transform: translateY(30px);
+}
+
+.promoCard:hover .promoCardInfo {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Promo card style end  */

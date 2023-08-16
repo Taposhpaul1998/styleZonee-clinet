@@ -1,0 +1,253 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/mNZbm42/polo2.jpg",
+        "name": "Red-polo T-shart",
+        "discrip": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "price": 700,
+        "catagory": "polo",
+        "size": [
+            "s",
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ],
+        "color": "Red",
+        "tag": [
+            "polo",
+            "T-shart"
+        ],
+        "GSM": 120
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/j8rSTwP/polo1.jpg",
+        "name": "Black-polo T-shart",
+        "discrip": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "price": 700,
+        "catagory": "polo",
+        "size": [
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ],
+        "color": "Black",
+        "tag": [
+            "polo",
+            "T-shart"
+        ],
+        "GSM": 120
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/mNZbm42/polo2.jpg",
+        "name": "Blue-polo T-shart",
+        "discrip": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "price": 700,
+        "catagory": "polo",
+        "size": [
+            "s",
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ],
+        "color": "Blue",
+        "tag": [
+            "polo",
+            "T-shart"
+        ],
+        "GSM": 120
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/j8rSTwP/polo1.jpg",
+        "name": "Green-polo T-shart",
+        "discrip": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "price": 700,
+        "catagory": "polo",
+        "size": [
+            "s",
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ],
+        "color": "Green",
+        "tag": [
+            "polo",
+            "T-shart"
+        ],
+        "GSM": 120
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/mNZbm42/polo2.jpg",
+        "name": "Yello-polo T-shart",
+        "discrip": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "price": 700,
+        "catagory": "polo",
+        "size": [
+            "s",
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ],
+        "color": "Yello",
+        "tag": [
+            "polo",
+            "T-shart"
+        ],
+        "GSM": 120
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/j8rSTwP/polo1.jpg",
+        "name": "Red-polo-2 T-shart",
+        "discrip": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "price": 700,
+        "catagory": "polo",
+        "size": [
+            "s",
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ],
+        "color": "Red",
+        "tag": [
+            "polo",
+            "T-shart"
+        ],
+        "GSM": 120
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co/mNZbm42/polo2.jpg",
+        "name": "Black-2-polo T-shart",
+        "discrip": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "price": 700,
+        "catagory": "polo",
+        "size": [
+            "s",
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ],
+        "color": "Black",
+        "tag": [
+            "polo",
+            "T-shart"
+        ],
+        "GSM": 120
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co/j8rSTwP/polo1.jpg",
+        "name": "Red-polo-3 T-shart",
+        "discrip": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "price": 700,
+        "catagory": "polo",
+        "size": [
+            "s",
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ],
+        "color": "Red",
+        "tag": [
+            "polo",
+            "T-shart"
+        ],
+        "GSM": 120
+    },
+    {
+        "id": 9,
+        "img": "https://i.ibb.co/mNZbm42/polo2.jpg",
+        "name": "Red-polo-4 T-shart",
+        "discrip": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "price": 700,
+        "catagory": "polo",
+        "size": [
+            "s",
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ],
+        "color": "Red",
+        "tag": [
+            "polo",
+            "T-shart"
+        ],
+        "GSM": 120
+    },
+    {
+        "id": 10,
+        "img": "https://i.ibb.co/j8rSTwP/polo1.jpg",
+        "name": "Red-1-polo T-shart",
+        "discrip": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "price": 700,
+        "catagory": "polo",
+        "size": [
+            "s",
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ],
+        "color": "Red",
+        "tag": [
+            "polo",
+            "T-shart"
+        ],
+        "GSM": 120
+    },
+    {
+        "id": 11,
+        "img": "https://i.ibb.co/mNZbm42/polo2.jpg",
+        "name": "Red-2-polo T-shart",
+        "discrip": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "price": 700,
+        "catagory": "polo",
+        "size": [
+            "s",
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ],
+        "color": "Red",
+        "tag": [
+            "polo",
+            "T-shart"
+        ],
+        "GSM": 120
+    },
+    {
+        "id": 12,
+        "img": "https://i.ibb.co/j8rSTwP/polo1.jpg",
+        "name": "Red-3-polo T-shart",
+        "discrip": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "price": 700,
+        "catagory": "polo",
+        "size": [
+            "s",
+            "m",
+            "l",
+            "xl",
+            "xxl"
+        ],
+        "color": "Red",
+        "tag": [
+            "polo",
+            "T-shart"
+        ],
+        "GSM": 120
+    }
+]
